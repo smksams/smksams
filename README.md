@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I'm a web developer passionate about working with complex and robust systems, focusing on usability and user experience, through the creation of components.</h3>
 
-- 💬 Ask me about **JavaScript, React, React Native, NodeJs, SQLite, TypeScript e Figma.**
+- 💬 Ask me about **JavaScript, Python, React, React Native, NodeJs, PostgreSQL, SQLite, TypeScript and Figma.**
 
 - 📫 How to reach me **fsantos.samuca@gmail.com**
 
